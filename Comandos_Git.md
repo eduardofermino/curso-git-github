@@ -24,4 +24,3 @@ Guia de referência para os principais comandos de versionamento de código com 
 | `git push origin main` | Envia todas as alterações da branch `main` local para o `origin` (repositório remoto) |
 | `git pull origin main` | Atualiza a branch local atual com todas as alterações da branch `main` remota |
 | `git clone <url_do_repositorio>` | Clona um repositório remoto para a sua máquina local |
-| `git fetch` | Baixa novas branches e commits para o repositório local, nao altera o código atual **dica: é possível usar git checkout + nome da branch remota para clonar o cõdigo localmente** |
