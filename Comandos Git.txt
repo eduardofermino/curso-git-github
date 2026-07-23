@@ -1,0 +1,18 @@
+Comandos Git
+
+git status - mostra a branch, se não há commits, arquivos que não foram adicionados e o que está para commit
+git add - prepara o arquivo para versionamento
+git reset - tira o arquivo do commit
+git commit -m "" - commita as alterações
+git log - histórico de todos os commits
+git diff - estado atual x estado do commit anterior de um arquivo
+git checkout -b "" - cria uma branch e começa a usá-la
+git checkout - muda de branch
+git branch - mostra todas as branches e indica a atual
+git merge - faz o merge da branch selecionada com a atual
+git branch -D <exemplo> - deleta a branch
+git remote add origin <url_do_repositorio> - vincula o repositório local com o remoto
+git branch -M - força a renomeação da branch atual
+git push origin main - envia todas as alterações da branch main local para o origin (repositório remoto)
+git pull origin main - atualiza a branch local atual com todas as alterações da branch main remota
+git clone <url_do_repositorio> - clona um repositório remoto para a sua máquina local
