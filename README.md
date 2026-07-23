@@ -2,7 +2,6 @@
 
 Este repositório contém guias rápidos de consulta com os principais comandos do **Git** e do **Terminal Bash**, além dos fluxos de trabalho (*workflows*) mais utilizados no dia a dia de desenvolvimento.
 
-=================================================================
 
 ## Fluxo de Trabalho usando Git:
 
@@ -18,8 +17,6 @@ Este repositório contém guias rápidos de consulta com os principais comandos 
 10. excluir <nova_branch> origin
 11. git checkout main
 12. git branch -D <nova_branch>
-
-=================================================================
 
 ## Fluxo de trabalho GitHub <> local (projetos open-source)
 
