@@ -1,4 +1,4 @@
-# Convenção de Commits (Conventional Commits)
+# Padrãonização de Commits
 
 Padrão de nomenclatura e boas práticas para mensagens de commit no projeto.
 
